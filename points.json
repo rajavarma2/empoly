@@ -1,6 +1,7 @@
 {
   "employees": [
     { "name": "Srinivasam", "points": 20 },
-    { "name": "Mahesh", "points": 20 }
+    { "name": "Mahesh", "points": 20 },
+    { "name": "Kishore", "points": 20 }
   ]
 }
